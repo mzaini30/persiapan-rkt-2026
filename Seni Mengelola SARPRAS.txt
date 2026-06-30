@@ -1,0 +1,123 @@
+SENI MENGELOLA SARPRAS
+
+Kalau sudah tembus PKBM, bisa dapat sarana SARPRAS dari pemerintah
+
+- Perencanaan
+  - Analisis kebutuhan
+    - Dicatat dulu semua barang dan kondisinya
+    - Semua Ustadz share ke unit semua yang ingin dibeli
+  - Prioritas Sarpras
+    - Prioritas barang 5 tahun terdekat kebutuhannya
+  - Penyusunan anggaran
+- Pengadaan
+  - Pemilihan vendor
+    - Bagus dan murah
+    - 3 vendor (Di RAB nanti 3 Penyedia dimasukkan)
+  - Pembelian barang/jasa
+    - Tim yang khusus beli, dicek harus sesuai spek. Kalau nggak sesuai spek, retur
+  - Verifikasi & serah terima
+- Inventarisasi
+  - Pencatatan barang
+  - Pemberian kode/label
+    - Bisa pakai deko/stiker
+  - Manajemen data aset
+- Perawatan
+  - Pemeliharaan rutin
+  - Perbaikan kerusakan
+  - Penilaian kondisi aset
+
+Jenis-jenis Belanja
+- Belanja jasa profesi/teknis
+  - Jasa perencanaan bangunan
+- Belanja barang persediaan (alat praktik) [habis pakai/belanja tiap tahun/satu periode akuntansi (Januari-Desember)]
+  - ATK
+- Belanja modal alat praktik (harga di atas 1 juta)
+  - Aset tetap
+
+Yang dicari oleh calon wali santri:
+- Fasilitas yang lengkap
+- Kurikulum yang bagus
+
+Komite tugasnya memikirkan mau belanja apa aja
+
+Usulan:
+- No
+- Spesifikasi
+- Merk 
+- Type 
+- Jumlah kebutuhan 
+- Harga satuan 
+- Jumlah harga 
+
+Menentukan harga satuan 
+- Cari harga satuan dari harga alat/barang 
+- Ongkos kirim (kalau dalam kota, tambahkan uang makannya berapa orang yang beli)
+- Tambahkan dengan inflasi 5% per tahun (0.05)
+- PPN 11%
+
+SARPRAS harus tau bahan yang paling kuat
+
+RAB Alat Praktik dan Belanja Modal
+
+Kartu Inventaris Ruangan
+Sub Unit Organisasi
+Sub Sekolah
+Ruangan
+- Tahun Pembuatan/Pembelian
+- Nomor Kode Barang 
+- Jumlah barang (satuan)
+- Harga beli/perolehan 
+- Keadaan Barang 
+  - Baik 
+  - Kurang Baik
+  - Rusak Berat 
+- Keterangan 
+  - Sumber Dana
+
+Masukkan Bantex untuk kearsipan, kasih plastik dulu
+
+Ada uang darurat, jika ada barang rusak, langsung dibeli (contohnya beli kran langsung habis rusak)
+
+- Perbaikan bangunan dan fasilitas fisik
+  - Komponen non struktural
+  - Pengecatan
+  - Lantai
+  - Sanitasi
+- Pemeliharaan peralatan dan perlengkapan
+  - Meubelair
+    - Meja kursi
+  - Peralatas Sekolah
+    - Fasilitas pendukung
+  - Daya dan jasa
+    - Instalasi listrik, air, internet, telepon, genset, panel surya, AC
+- Fasilitas khusus
+  - Untuk disabilitas
+
+Bantuan dari pemerintah, minimal rusak sedang (30% kerusakan)
+
+------------------------------------
+
+DISKUSI TENTANG SARPRAS
+
+Misal kalau ada air mati, langsung beli tandon. Berarti, harus ada uang darurat SARPRAS. Jadi, pengajar fokus ngajar aja, nggak perlu pusing mikirin SARPRAS. Langsung telpon kepala sekolah aja supaya uangnya bisa keluar untuk perbaikan SARPRAS
+
+Kenapa kita harus ngelist semua perlengkapan yang mau dibeli, supaya nanti kalau misalnya tiba-tiba ada muhsinin yang mau bantu, kita sudah punya datanya
+
+Semua keperluannya harus di-file-kan sama sekretaris
+
+Kalau misalnya dari SPP wali santri cuma bisa beli satu alat, cari prioritasnya
+
+HARUS PUNYA 
+- Video Company Profile. Meyakinkan orang tuanya tentang apa yang kita berikan ke orang tuanya
+- Gambar-gambar fasilitas
+- File-file presentasi
+
+Humas nggak cuma ngasih pamflet, tapi kunjungan ke masing-masing sekolah untuk presentasi. Harus pakaian bagus, jas
+
+Tidak semua orang punya Instagram 
+
+Humas harus ada uang transport
+
+Sehari harus minimal dua sekolah didatangi
+
+Kalau Humas keluar untuk presentasi, harus ada guru lain yang menggantikan
